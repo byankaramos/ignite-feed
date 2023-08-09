@@ -1,7 +1,8 @@
-# ig.news
+# feed
 
-![image](![image](https://github.com/byankaramos/ignite-feed/assets/123343987/5026808f-f0fa-4bd0-a012-99acde877c5b)
-)
+| Desktop | Mobile |
+| ------- | -------- |
+| ![image](https://github.com/byankaramos/ignite-feed/assets/123343987/2a1137ae-dd3f-4f00-b501-3b2a1d96dd2b) | ![image](https://github.com/byankaramos/ignite-feed/assets/123343987/18f000cb-9ed2-45de-ad36-591953d9df0c) |
 
 Feed made following the Ignite course with personal changes. [You can access it by clicking here.](https://ignite-feed-byankaramos.vercel.app/)
 
